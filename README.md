@@ -1,1 +1,2 @@
-# BotCouchDb
+# SlackBot
+Run using index.js
